@@ -1,0 +1,53 @@
+Bock et al - Ketogenic diets attenuate cyclooxygenase and lipoxygenase gene expression in multiple 
+sclerosis
+- pro-inflammatory eicosanoids have been implicated in the pathogenesis of multiple sclerosis since they 
+augment vascular permeability and induce leukocyte migration into the brain
+- ketogenic diets can reduce the expression of enzymes involved in the biosynthesis of pro-inflammatory 
+eicosanoids. Pharmacologial interference with eicosanoid biosynthesis might consitute a strategy 
+supplementing current therapeutic approches for MS
+
+Choi et al - Diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis
+symptoms
+- Periodic 3 day cycles of a fasting mimicking diet (FMD) are effective in ameliorating dymyelination
+and symptoms in a murine experimental autoimmune encephalomyelitis model
+- the FMD reduced clinical severity in all mice, and completely reveresed symptoms in 20% of the animals.
+- The FMD promoted oligodendrocyte precursor cell regeneration and remyelination in axons in response to both
+EAE and cuprizone MS models, supporting its effects on both suppression of autoimmunity and remyelination.
+- FMD or chronic ketogenic diets are safe, feasible, and potentially effective in the treatment of relapsing
+ remitting multiple sclerosis patients
+
+Field et al - Conventional and quantitative MRI in a novel feline model of demyelination and endogenous
+remyelination
+- Study concerned 10 adult cats at various stages of demyelination induced by an irradiated diet
+- Assessment was done via MRI of the brain, optic nerves, and cervical spinal cord; a subset of diseased cats
+was euthanized for comparative histopathology
+
+Ghaiad et al - Resveratrol promotes remyelination in cuprizone model of multiple sclerosis: biochemical and 
+histological study
+- Resveratrol is a stilbenoid polyphenol, known to pass blood brain barrier and exhibit antioxidant, anti-
+inflammatory, and neuroprotective effects in several brain injuries
+- Ex vivo measures included measurement of brain content of glutahione, lipid peroxidation products, adenosine
+triphosphate, and phospho-inhibitory subunit of nuclear factor kB-a. The gene expression of myelin basic protein,
+2',3''-cyclic nucleotide 3'phosphodiesterase, oligodendrocyte transcription factor-1 (Olig1), NF-kB p65 subunit,
+and tumour necrosis factor-a was also estimated. Luxol fast blue/periodc acid-Schiff stained brain sections were
+blindly scored to asses the myelin status
+- Resveratrol effectively enhanced motor coordination and balance, reverse curpizone-induced demyelination, improved
+mitochondrial function, alleviated oxidative stress, and inhibited NF-kB signalling
+- Interestingly, resveratrol incrased Olig1 expression that is positively correlated to active remyelination
+
+Klepper et al - GLUT1 Deficiency with delated myelination respnoding to ketogenic diet
+- In a clinical example of a boy with delayed myelination, six month of a ketogenic diet resulted in an improved 
+high subcortical white matter signal
+- Delayed subcortical myelination may occur in GLUT1 deficiency syndrome as a nonspecific finding reflecting 
+development delay
+- In patients without seizures, cranial magnetic resonance imaging and magnetic resonance spectroscopy may prove 
+useful tools to monitor th response to a ketogenic diet
+
+Klosinski et al - White matter lipids as a ketogenic fuel supply in aging female brain'implicaionts for 
+Alzheimer's disease
+- This study investigeated decline in mitochondrial respiration, increased mitochondrial hydrogen peroxide 
+production and cytosolid-phsopholipase-A2 sphingomyelinase pathway activation during female brain ageing
+- An increase in fatty acids and mitochondrial fatty acid metabolism machinery was coincident with a rise in 
+brain detone bodies and decline in plasma ketone bodies
+- The catabolism of myeline lipids to generate ketone bodies can be viewed as a systems level adaptive response 
+to address brain fuel and energy demand
