@@ -51,3 +51,19 @@ production and cytosolid-phsopholipase-A2 sphingomyelinase pathway activation du
 brain detone bodies and decline in plasma ketone bodies
 - The catabolism of myeline lipids to generate ketone bodies can be viewed as a systems level adaptive response 
 to address brain fuel and energy demand
+
+Liskiewicz et al - Sciatic nerve regeneration in rats subjected to ketogenic diet
+- Fifty one rats were divided in to three experimental grups and one control group. Their right sciatic nerve was 
+crished and the animals were kept on either a standard or ketogenic diet
+- Functional catwalk tests showed no difference between the groups
+- Morphometic evaluation showed most similarities to the healthy (uncrushed) nerves in the ketogenic groups; with 
+the nerves in the ST group differing mostly from all other grups
+- Regeneration of sciatic nerves was improved in ketogenic-preconditioned rats. These results suggest a 
+neuroprotective effect of KD on peripheral nerves.
+
+Veyrat-Derebex et al - How can a ketogenic diet improve motor function?
+- A ketogenic diet increases ketone body production and their concentraiton in the blood, providing the brain an 
+alternative energy supply that enhances oxidative mitochondrial metabolism
+- In addition to its profound impact on neuro-metabolism and bioenergetics, the neuroprotective effect of 
+specific polyuynsaturated fatty acids and KBs involves pleiotropic mechanisms, such as the modulation of neuronal 
+membrane excitability, inflammation, or reative oxygen species production
