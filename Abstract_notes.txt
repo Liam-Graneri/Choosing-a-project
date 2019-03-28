@@ -1,4 +1,4 @@
-Bock et al - Ketogenic diets attenuate cyclooxygenase and lipoxygenase gene expression in multiple 
+Bock et al (2018) - Ketogenic diets attenuate cyclooxygenase and lipoxygenase gene expression in multiple 
 sclerosis
 - pro-inflammatory eicosanoids have been implicated in the pathogenesis of multiple sclerosis since they 
 augment vascular permeability and induce leukocyte migration into the brain
@@ -6,7 +6,7 @@ augment vascular permeability and induce leukocyte migration into the brain
 eicosanoids. Pharmacologial interference with eicosanoid biosynthesis might consitute a strategy 
 supplementing current therapeutic approches for MS
 
-Choi et al - Diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis
+Choi et al (2016) - Diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis
 symptoms
 - Periodic 3 day cycles of a fasting mimicking diet (FMD) are effective in ameliorating dymyelination
 and symptoms in a murine experimental autoimmune encephalomyelitis model
@@ -16,14 +16,14 @@ EAE and cuprizone MS models, supporting its effects on both suppression of autoi
 - FMD or chronic ketogenic diets are safe, feasible, and potentially effective in the treatment of relapsing
  remitting multiple sclerosis patients
 
-Field et al - Conventional and quantitative MRI in a novel feline model of demyelination and endogenous
+Field et al (2018) - Conventional and quantitative MRI in a novel feline model of demyelination and endogenous
 remyelination
 - Study concerned 10 adult cats at various stages of demyelination induced by an irradiated diet
 - Assessment was done via MRI of the brain, optic nerves, and cervical spinal cord; a subset of diseased cats
 was euthanized for comparative histopathology
 
-Ghaiad et al - Resveratrol promotes remyelination in cuprizone model of multiple sclerosis: biochemical and 
-histological study
+Ghaiad et al (2016) - Resveratrol promotes remyelination in cuprizone model of multiple sclerosis: biochemical 
+and histological study
 - Resveratrol is a stilbenoid polyphenol, known to pass blood brain barrier and exhibit antioxidant, anti-
 inflammatory, and neuroprotective effects in several brain injuries
 - Ex vivo measures included measurement of brain content of glutahione, lipid peroxidation products, adenosine
@@ -43,7 +43,7 @@ development delay
 - In patients without seizures, cranial magnetic resonance imaging and magnetic resonance spectroscopy may prove 
 useful tools to monitor th response to a ketogenic diet
 
-Klosinski et al - White matter lipids as a ketogenic fuel supply in aging female brain'implicaionts for 
+Klosinski et al (2015) - White matter lipids as a ketogenic fuel supply in aging female brain'implicaionts for 
 Alzheimer's disease
 - This study investigeated decline in mitochondrial respiration, increased mitochondrial hydrogen peroxide 
 production and cytosolid-phsopholipase-A2 sphingomyelinase pathway activation during female brain ageing
@@ -52,7 +52,7 @@ brain detone bodies and decline in plasma ketone bodies
 - The catabolism of myeline lipids to generate ketone bodies can be viewed as a systems level adaptive response 
 to address brain fuel and energy demand
 
-Liskiewicz et al - Sciatic nerve regeneration in rats subjected to ketogenic diet
+Liskiewicz et al (2016) - Sciatic nerve regeneration in rats subjected to ketogenic diet
 - Fifty one rats were divided in to three experimental grups and one control group. Their right sciatic nerve was 
 crished and the animals were kept on either a standard or ketogenic diet
 - Functional catwalk tests showed no difference between the groups
@@ -61,9 +61,70 @@ the nerves in the ST group differing mostly from all other grups
 - Regeneration of sciatic nerves was improved in ketogenic-preconditioned rats. These results suggest a 
 neuroprotective effect of KD on peripheral nerves.
 
-Veyrat-Derebex et al - How can a ketogenic diet improve motor function?
+Veyrat-Derebex et al (2018) - How can a ketogenic diet improve motor function?
 - A ketogenic diet increases ketone body production and their concentraiton in the blood, providing the brain an 
 alternative energy supply that enhances oxidative mitochondrial metabolism
 - In addition to its profound impact on neuro-metabolism and bioenergetics, the neuroprotective effect of 
 specific polyuynsaturated fatty acids and KBs involves pleiotropic mechanisms, such as the modulation of neuronal 
 membrane excitability, inflammation, or reative oxygen species production
+- Motor function has also been shown to be improved by ketone diets and/or medium-chain triglyceride diets in 
+rodent models of Alheimer's disease, Parkinson's disease, anyotrophic lateral sclerosis, and spinal cord injury
+- these studies have proposed that ketone diets may induce a modification in synaptic morphology and function, 
+involving ionic channels, glutaminergic transmission, or synaptic vesicular cycling machinery
+
+Yand & Fan (2017) - Diets for patients with amyotrophic lateral sclerosis: pay attention to nutritional 
+intervention
+- Amyotrophic lateral sclerosis is characterised by the progressive degeneration of upper and lower motor neurons
+- Typic features of ALS are limb paralysis, muscle atrophy, dysphagia, dysarthria, shortness of breath, and 
+respiratory failure
+- There is a potential linear relationship in ALS between serum lactate and motor deterioration and that slower 
+lactate elimination rate might be assoicated with faster disease progression
+- Several studies have reported that nutritional status is losely related to the survival time of ALS patients, 
+and there exists a U-shaped association between patients' body bass index (BMI) and mortality.
+
+Armon-Omer et al (2019) - New insights on the nutrition status and antioxidant capacity in multiple sclerosis 
+patients
+- 63 MS patients and 83 healthy controls were given a dietary questionnaire, blood tests, quantification of cell 
+membrane fatty acids, and serum antioxidant capacity to determine nutritional status.
+- MS patients consumed a more limited diet compared with the healthy group, indicated by a lower average of 31 
+nutrients and by consumption levels of zinc and thiamine below the recommended daily intake.
+- Both consumption and measured iron values were significantly lower in MS patients, with the lowest measures in 
+the severe MS group
+- Long saturated fatty acids (>C16) were significantly lower in MS patients, while palmitic and palmitoleic acids 
+wer both higher
+- Serum total antioxidant capacity was significantly lower in the MS group compared with healthy controls, with 
+the lowest measures in patients with severe MS
+- This study points to the possible correlation between nutritional status and MS
+
+Beckett et al (2019) - Diet and multiple sclerosis: scoping review of web-based recommendatiosn
+- There is currently no scientific evidence supporting the use of specific diets in the management of multiple 
+sclerosis (MS); the strongest dietary associations are observed with vitamin D and omega-3 fatty acid 
+supplementation
+- The most common dietary pattern advised on these webpages was the low-fat, high-fiber balanced diet, followed 
+by the low-saturated fat diet, near-vegetarian Swank diet, and the Paleo diet
+
+Bisht et al (2014) - A multimodal intervention for patients with secondary progressive ultiple sclerosis 
+feasibility and effect on fatigue
+- A multimodal intervention including a modifed paleolithic diet with supplements, stretching, strengthening 
+exercises with electrical stimulation of trunk and lower limb muscles, meditation, and massage was used
+- There was a significant improvement in fatigue im those who completed the study
+
+Bisht et al (2017) - Effects of a multimodal intervention on gait and balance of subjects with progressive 
+multiple sclerosis: a prospective longitudinal pilot study
+- Multimodal intervention including a modified paleolithic diet, nutritional supplements, stretching, 
+strenghening exervises with electrical stimulation of trunk and lower limb muscles, meditation, and massage on 
+walking performance and balance of subjects with progressive multiple sclerosis
+- A multimodal lifestyle intervention may improve walking performance and balance in subjects with progressive MS 
+who have mild0-to-moderate gait impairment, whereas subjects with severe gait impairments may not respond to this 
+intervention
+
+Bisht et al (2015) - Multimodal intervention improves fatigue and quality of life in subjects with progressive 
+multple scerosis: a pilot study
+- fatigue is a disabling symptom of multiple sclerosis and reduces quality of life
+- Multimodal intervention, including a modified Paleolithic diet, nutritional supplements, stretching, 
+strengthening exercises with electrical stimulation of trunk and lower limb muscles, and stress management on 
+perceived fatigue and quality of life of persons with progressive MS
+- subjects showed good adherence with this intervention and did not report any seriouys side effects
+- High responders undertook longer duration of maassage and stretches per puscle in 12 months
+- Multimodal intervention may reduce fatigue and improve quality of life of subjects with progressive MS
+
