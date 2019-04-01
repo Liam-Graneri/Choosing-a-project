@@ -2,4 +2,324 @@
 
 
 Aktas et al (2010) - Fingolimod is a potential novel therapy for multiple sclerosis
-- 
+- Fingolimod is an orally available sphingosine-1-phosphate rececptor modulator that has unique and potent 
+immunoregulatory properties
+- Mechanistic studies indicate that on phosphorylation, fingolimod can bind with high affinity to S1P 
+receptors
+- Persistent modultion of lymphocyte S1P receptors by fingolimod and the subsequent internalization of 
+these receptors inhibits lymphocyte egress from the lymph nodes, and prevents these cells from 
+infiltrating inflammatory lesions in the CNS
+- Results of phase III studies - FREEDOMS and TRANSFORMS - support previous phase II trial observations 
+indicating that fingolimod exerts powerful anti-inflammatory effects in relapsing-remitting multiple 
+sclerosis
+- Preclinical studies suggest that fingolimod might promote neural repair in vivo
+
+Alroughani et al (2018) - An overview of high-efficacy drugs for multiple sclerosis- Gulf Region exeprt 
+opinion
+- This article discusses the opinions of the multiple sclerosis experts in the Gulf region on the use of 
+high-efficacy disease-modifying drugs in clinical practice
+- The experts reviewed the current literature including pivotal clinical trials and meta-analysis for 
+high-efficacy DMDs, supplemented by the expert opinions on the usage of these DMDs in clinical practice.
+- The panel concluded that all disease-modifying drugs available for the treatment of MS have benefits and 
+risks, which should be considered while discussing the treatment plan with the patient(s)
+
+Berger et al (2015) - Severe disease reactivation in four patients with relapsing-remitting multiple 
+sclerosis after fingolimod cessation
+- Little is known about the disease course after the discontinuation of finolimod treatment
+- In a case study where fingolimod had to be discontinued due to persisting lymphopenia, severe aricella 
+zoster virus sinfection, subarachnoid hemorrhage, and increased liver function enzymes,
+- Betweeen two to four months after fingolimod cessation, these patients had a severe relapse
+- Cerebral MRI found multiple new lesions, partially with contrast ring enhancement
+- Partial recovery was achieved after steroid pulse therapy followed by plasma exchange in two patients
+- Despite the limited evidence from this case study on potential drug reactivation exceeding pre-fingolimod 
+activity in a subgroup of relapsing-remitting multiple sclerosis patients, particularly patients with high 
+disease activity should undergo frequent clinical as well as radiological monitoring after fingolimod 
+discontinuation
+
+Brinkmann (2009) - FTY720 (fingolimod) in Multiple Sclerosis: therapeutic effects in the immune and the 
+central nervous system
+- fingolimod is a first-in-class sphingosine 1-phosphate receptor modulator that was highly effective in 
+phase II clinical trials for multiple sclerosis.
+- fingolimod is phosphorylated in vivo by sphingosine kinase-2 to form the active moiety FTY720-phosphate 
+that binds to four of the five G protein-coupled S1P receptor subtypes
+- In models of human MS and demyelinating polyneuropathies, functional antagonism of lymphocytic S1P1 slows 
+S1P-driven egress of lymphocytes from lymph nodes, thereby reducing the numbers of autoaggressive TH17 
+cells that recirculate via lymph and blood-brain barrier, and ongoing experiements suggest that the drug 
+also down-modulates S1P1 in neural cells/astrocutes to reduce astrogliosis, a phenomenon associated with 
+neurodegeneration in MS
+- This may help restore gap-junctional communication of astrocytes with neurons and cells of the 
+blood-brain barrier
+- Additional effect may result from down-modulation of S1P3 in astrocytes and of S1P1 and S1P5 in 
+oligodendrocytes
+- fingolimod may act through immune-based and central mechanisms to reduce inflammation and support 
+structural restoration of the central nervous system parenchyma
+
+Brinkmann et al (2010) - Fingolimod (FTY720): discovery and development of an oral drug to treat Multiple 
+Sclerosis
+- Elucidation of the effects of fingolimod - mediated by the modulation of sphingosine 1-phosphate S1P 
+receptors - has indicated that its therapeutic activity could be due to reulation of them idgraiton of 
+selected lymphocyte subsets into the central nervous system and direct effects on neural cells, 
+particularly astrocytes
+- This article describes the discovery and development of fingolimod, which was approved byt he US Food and 
+Drug administration in September 2010 as a first-line treatment for relapsing forms of MS, thereby becoming 
+teh first oral disease-modifying therapy to be approved for multiple sclerosis in the United States
+
+Chun et al (2011) - A mechanistically novel, first oral therapy for multple sclerosis: the development of 
+fingolimod
+- Until recently, major therapeutic treatments have relied on agents requiring injection delivery
+- Fingolimod is a novel compound produced by chemical modification of a funcal precursor
+- Its active metabolite, formed by in vivo phosphorylation, modulates spingosine 1-phosphate receptors that 
+are a subset of a larger family of cell-surface, G protein-coupled receptors mediating the effects of 
+bioactive lipids known as lysophospholipids
+- Fingolimods mechanism of action in MS is not completely understood; however its relevant biology 
+indicates a fundamentally different mechanism compared to all previously approved MS therapies, with 
+evolving research supporting both immunological and nervous system activities
+
+Chun & Hartung (2010) - Mechanism of action of oral fingolimod (FTY720) in Multiple Sclerosis
+- There are at least five S1P receptor subtypes, known as S1P1-5, four of which bind fingolimod-phosphate. 
+These receptors are expressed on a wide range of cells that are involved in many biological processes 
+relevant to MS
+- S1P1 plays a key role in the immune system, regulating lymphocyte egress from lymphoid tissues into the 
+circulation
+- Fingolimod-phosphate initially activates lymphocyte S1P1 via high-affinity receptor binding, yet 
+subsequently reducing autoaggressive lymphocyte infiltration into the CNS
+- S1P receptors are also expressed by many CNS cell types and have been shown to influence cell 
+proliferation, morphology, and migration.
+- Fingolimod crosses blood-brain barrier and may therefore have direct CNS effects, distinguishing it from 
+immunologically targeted MS therapies
+
+Cicalini et al (2019) - Integrated lipidomics and metabolomics analysis of tears in Multiple Sclerosis: An 
+insight into diagnostic potential of lacrimal fluid
+- Metabolomics based on mass spectrometry represents an innovative approach to characterise multifactorial 
+diseases, such as multiple sclerosis
+- To date, the most important biomarker source for MS diagnosis is the cerebro-spinal fluid
+- A very interesting biofluid in MS is represented by tears, considered as an alternative fluid between the 
+CSF and serum
+- This paper attempts to develop a strategy for the analysis fo lipids containing choline by Liquid 
+Chromatography coupled with Tandem Mass Spectrometry, as well as for the targeted analysis of free 
+carnitine, acylcarnitines, and aminoacids by direct infusion mass spectrometry
+- Tear lipidomics showed 30 phospholipids significantly modulated and, notable, many sphingomyelins 
+resulted lower in MS
+- Metabolomics approach carried out both on tears and serum highlighted the diagnostic potential of 
+specific aminoacids and acylcarnitines
+- The metabolic profiling of tears appears to reflect the pathological conditions of the central nervous 
+system, suggesting that the molecular respository of tears can be considered as a source of potenetial 
+biomarkers
+
+Cohen et al (2010) - Oral fingolimod or intramuscular interferon for relapsing multple sclerosis
+- 12 month, double-blind, double-dummy study randomised 1292 patients with relapsing-remitting multiple 
+sclerosis who had a recent history of at least one relapse to receive either oral fingolimod at a daily 
+dose of either 1.25 or 0.5 mg or intramuscular interferon beta-1a
+- A total of 1153 patients (89%) completed the study
+- No significant differences were seen among the study groups with respect to progression of disability
+- Two fatal infections occurred in the group that received the 1.25 mg dose of fingolimod: disseminated 
+primary varicella zoster and herpes simplex encephalitis
+- This trial showed the superior efficacy of oral fingolimod with respect to relapse rates and MRI outcomes 
+in patients with multiple sclerosis, as compared with intramuscular interferon beta 1a
+
+Goodwin (1968) - Sphingolipids and phospholipids of myelin in multiple sclerosis
+- Myelin from apparently normal white matter of three cases of multiple sclerosis has been examined and a 
+striking change in cerebroside sulhatide ratio demonstrated. Relative proportions of cholesterol, 
+cerebrosid,e and sulphatide also show variation from the normal
+
+Dasgupta & Ray (2017) - Diverse biological functions of sphingolipids in the CNS: ceramide and sphingosine 
+regulate myelination in developing brain but stimulate demyelination during pathogenesis of multiple 
+sclerosis
+- Sphingolipids participate in multiple biological functions
+- They particiapate in tissue development, cell recognition and adhesion, and act as receptors for toxins
+- During myelination, a variety of interactive molecules such as myelin basic protein, myelin associated 
+glycoprotein, phospholipids, cholesterol, sphingolipids etc. participate in a complex fasion
+- This investigatoin delineated participation of several sphingolipids in myelination during rat brain 
+development as well as in human brain demyelination during pathogenesis of MS
+- These sphingolipids included Ceramide/dihydroceramide, sphingosine/dihydrosphingosine, and 
+glucosyl/galactosylceramide; detected by column chromatography, high performance thin-layer chromatography, 
+gas chromatography-mass spectometry, and high-performance liquid chromatography
+- The profiles of all these sphingolipids, specifically at postnatal day, clearly indicate their importance 
+during rat brain development but somewhat unspecified roles in myelination
+- While ceramide has been reported to involve in neurodegenerative diseases such as Alzheimer's disease and 
+Parkinson's diseaes, Sphingosine being a potent inhibitor of protein kinase C has recently been implicated 
+in CNS demyelination due to MS
+- Inflammatory cytokines stimulate Sphingosine eleveation in MS brains and lead to demyelination due to 
+oligodendrocyte death as explained in this study by using huan oligodendroglioma culture
+- In conclusion, sphingolipids are essential for brain development but they have deleterious effects in 
+demyelinating diseases such as MS
+
+Fewster et al (1976) - Lipid composition of myelin in Multiple Sclerosis
+- Myeline was isolated from histologically normal white matter and plaques from MS patients and from white 
+matter of neutologically normal controls
+- No difference wsas found in the total lipid content
+- There were no detectable deficits in MS myelin of phosphoglycerides, plasmalogens, or sphingolipids
+- Gangliosides and lysolecithin were not detected
+- Analysis of the fatty aldehyde composition of the phosphoglycerides and the fatty acid composition of the 
+cholesterol esters, phosphoglycerides and sphingolipids did not show any differences between the normal and 
+MS myelin
+
+Goves et al (2013) - Fingolimod: direct CNS effects of sphingosine 1-phosphate (S1P) receptor modulation 
+and implications in multiple sclerosis therapy
+- The mechanism of action of fingolimod in MS has primarily been considered as immunomodulatory, wehereby 
+fingolimod-P modulates S1P1 on lymphocytes, selectively retaining autoractive lymphocytes in lymph nodes to 
+reduce damaging infiltration into the central nervous system
+- In the MS animal model of experimental autoimmune ecephalomyelitis, fingolimod is highly efficacious in 
+both a prophylactic and therapeutic setting, yet becomes ineffective in animals selectively deficient for 
+S1P1 on astrocytes, despite maintained normal immunologic receptor expression and functions, and 
+S1P-mediated immune activities
+
+Halmer et al (2014) - Sphingolipids: important players in multiple sclerosis
+- Current pathophysiological understanding has identified an autoaggressive immune reaction with 
+infiltration of immune cells into the central nervous system and local inflammatory and demyelinating 
+reactions
+- Sphyngolipids, main components of nervous tissue, have been linked to MS already 60 years ago with the 
+description of an unusual myelin lipid distribution in diseased patients
+- Antibodies against sphingomyelin, sulfatide, or galacosylceramide have been detected in serum or CSF of 
+MS patients, although up to now, this knowledge did not find its way into clinical use
+- Ceramide and the enzymes linked to its production have been described to play a pivotal role in 
+oligodendrocyte damage and demyelination
+- There is accumulating evidence which suggests especially S1P receptors on oligodendrocytes and astrocytes 
+are involved in demyelination processes and subsequent axonal degeneration, important features of chronic 
+progressive MS disease course
+
+Hatcher et al (2016) - Rebound syndrome in patients with Multiple Sclerosis after cessation of fingolimod 
+treatment
+- The appropriate sequencing of agents with strong immune system effects has become increasingly important
+- Despite varying prior severity of relapsing-remitting course, all participants experienced unexpectedly 
+severe clinical relapses accompanied by drastic increases in new or enhancnig lesions seen on magnetic 
+resonance imaging
+
+Haughey (2010) - Sphingolipids in neurodegeneration
+- Although the brain contains a high content of sphingolipids, we know relatively little about the roles 
+that sphingolipids play in regulating neural functions
+- Recent technological and scientific advances are rapidly increasing our knowledge of the roles that 
+sphingolipids play in regulating normal neural activity
+- We are beginning to understand how pertubations in sphingolipid metabolism contribute to the pathogenesis 
+of a variety of neurodegenerative conditions
+
+Husted & Dhondup (2009) - Tibetal medical interpretation of myelin lipids and multiple sclerosis
+- Tibetan medicine integrates diet, lifestyle, herbs, and accessory therapies to incrase health and 
+longevity
+- A comparison of the three humur theory of Tibetan medicine and the three thermodynamic phase properties 
+of myelin lipids exemplifies how integraing medical systems can increase understanding of complex chronic 
+disabling conditions
+- The three classes of myelin lipids - phospholipids, sphingolipids, and cholesterol - are interpreted as 
+one of three humors based on Langmuir isotherm thermodynamic measurements
+- The rest of this abstract seemed bullshit so i did not continue reading
+
+Jana & Pahan (2010) - Sphingolipids in Multiple Sclerosis
+- Oligodendrocytes, the myelin-forming cells of the central nervous system are target cells in MS
+- Although the etiology of MS is poorly known, new insights suggests oligodendrocyte apoptosis as one of 
+the critical events followed by glial activation and infiltration of lymphocytes and macrophages
+- A major breakthrough in delineation of the mechanism of cell death, perivascular cuffing and glial 
+activation came from elucidation of the sphingolipid signal transduction pathway
+- The sphingolipid signal transduction pathway induces apoptosis, differentiation, proliferation, and 
+growth arrest depending upon cell and receptor types, and downstream targets
+- Sphingomyelin, a major component of myelin membrane formed by mature oligodendrovyte, is abundant in the 
+CNS and ceramide, its primary catabolic product released by activation of either neutral or acidic 
+sphingomyelinase, serves as a potential lipid second messenger or mediator molecule modulating diverse 
+cellular signalling pathways
+Similarly, under certain conditions, sphingosine produced from ceramide by ceramidase is phosphorylated by 
+sphingosine kinases to sphingosine-1-phosphate, another potent second messenger molecule
+- Both ceramide and sphingosine-1 phosphate regulat life and death of many cell types including brain cells 
+and participate in pathogenic processes of MS
+
+Kappos et al (2010) - A placebo-controlled trial of oral fingolimod in relapsing multiple sclerosis
+- Oral fingolimod, a sphongosine-1-phosphate receptor modulator that prevents the egress of lymphocytes 
+from lymph nodes, significantly improved relapse rates and end points measured on MRI, as compared with 
+either placebo or intramuscular interferon beta-1a, in phase 2 and 3 studies of MS
+- Fingolimod at doses of 0.5 mg and 1.25 mg significantly reduced the risk of disability progression over 
+the 24 month period
+- Causes of study discontinuation and adverse events related to fingolimod included bradycardia and 
+atrioventricular conduction blodck at the time of fingolimod intitiation, macular edema, elevated 
+liver-enzyme levels, and mild hypertension
+- As compared with placebo, both doses of oral fingolimod improved the relapse rate, the risk of disability 
+progression, and end points on MRI
+
+Kappos et al (2006) - Oral fingolimod for relapsing multiple sclerosis
+- A total of 255 patients completed the core study investigating the efficacy of fingolimod
+- The number of gadolinium-enhanced lesions and relapse rates remained low in the groups that received 
+continuous fingolimod, and both measures decreased in patients who switched from placebo to fingolimod
+- In this proof-of-concept study, fingolimod reduced the number of lesions detected on MRI and clinical 
+disease activity in patients with multiple sclerosis
+
+Kobelt et al (2019) - Real-life outcome in multiple sclerosis in the Czech Republic
+- This study attempts to describe changes in disability, relapse activity, and health care consumption over 
+the period 2008-2015 by combining two Czech cost-of-illness studies with disease data from the MS center in 
+Prague
+- The number of relapses was associated with a higher ris of progression
+
+Pelletier & Hafler (2012) - Fingolimod for Multiple Sclerosis
+- A 37 year old man with multiple sclerosis was evalued for consideration of oral immunotherapy
+- The diagnoses of multiple sclerosis was confirmed six years earlier by meeans of examination of 
+cerebrospinal fluid, which revealed an increaesed IGG index and oligoclonal banding, and by absormal 
+results on magnetic resonance imaging
+- This had no help
+
+Podbielska & Krotkiewski (2012) - Signalling and regulatory functions of boiactive sphingolipids as 
+therapeutic targets in Multiple Sclerosis
+- Sphingolipids are an important compontent of central nervous system myelin sheaths and affect the 
+viability of brain cells (oligodendrocytes, neurons, and astrocytes) that is determined by signalling 
+mediated by bioactive sphingoids (lyso-SLs).
+- Recent studies indicate that two lipids, ceramide, and sphingosine l-phosphate (SIP) are particularly 
+involved in many human diseases, including the autoimmune inflammatory demyelination of multiple sclerosis
+
+Strader et al (2019) - Fingolimod (FTY720): A recently approved multiple sclerosis drug based on a fungal 
+secondary metabolite
+- Fingolimod is a synthetic compound based on the fungal secondary metabolite myriocin
+- It is a potent immunosuppressant that was approved by the US FDA as a new treatment for multiple 
+sclerosis
+- Fingolimod becomes active in vivo following phosphorylation by sphindosin kinase 2 to form 
+fingolimor-phosphate, which binds to extracellular G protein-coupled receptors, sphingosine l-phosphates, 
+and prevents the release of lymphocytes from lymphoid tissue
+- Fingolimod is orally active, which is unique among the current first-line MS therapies, and has the 
+potential to be used in the treatment of organ transplants and cancer
+
+Suzuki et al (1972) - Myelin in Multiple Sclerosis
+- Myelin was isolated from whte matter of five normal control brains and from normal-appearing whte matter 
+of five patients with multiple sclerosis
+- There was statistically significant reduction of 25% to 30% in yield of myelin from abnormal brains, due 
+probably to inadvertent inclusion of small lesions
+- No abnormalities were found in the distribution of major constituents
+- Analysis of individual lipids, and fatty acid composition of sphingolipds did not show any differences 
+between control and multiple sclerosis myelin
+- Myelin isolated from normal-appearing whte matter of multiple sclerosis brains contained normal amounts 
+of myelin basic protein
+- chemical composition of the myelin sheath in normal-appearing white matter of mutiple sclerosis patients 
+is therefore completely normal
+
+Walter & Fabender (2010) - Sphingolipids in multiple sclerosis
+- Current therapeutic approaches focus on the suppression of the immune system and on blockade of T cell 
+blood-brain barrier transmigration into the brain parenchyma
+- Recently, sphingolipids that have been linked to MS pathophysiology i.e. sphingosine-1-phosphate, 
+intracellularly produced lysophospholipids, can be recognized by receptors located on T and B cells
+
+Wheeler et al (2008) - A defect of sphingolipid metabolism modifies the properties of normal appearing 
+white matter in multiple sclerosis
+- Maintaining the appropriate complement and content of lipids in cellular membranes is critical for 
+normal neural function. Accumulating evidence suggests that even subtle perturbations in the lipid content 
+of neurons and myelin can disrupt their function and may contribute to myelin and axonal degradation
+- This study determined the composition and quantified the content of lipids and sterols in normal 
+appearing white matter and normal appearing grey matter from conrtol and multiple sclerosis brain tissues 
+by electrospray ionization tandem mass spectrometry
+- This study found that in active-multiple sclerosis, there is a shift in the lipid composition of both 
+normal appearing white and grey matter to a higher phospholipid and lower sphingolipid content
+- It was noticed that disturbance in lipid composition was reduced in normal appearing grey matter but not 
+in normal appearing white matter of inactive-multiple sclerosis
+- The pattern of disturbance in lipid composition suggests a metabolic defect that causes sphingolipids to 
+be shuttled to phospholipid production
+
+Zhang et al (2019) - Lipid-related genetic polymorphisms significantly modulate association between lipids 
+and dsiability progression in multiple sclerosis
+- Aimed to investigate whether lipid-related or body mass index-related common genetic polymorphisms 
+modulate the associations between serum lipid levels, BMI and disability progression in multiple sclerosis
+- Both lipid levels and lipid-related polymorphisms individually and jointly were associated with 
+significantly increased disability progression in MS.
+- The results indicate that these polymorphisms and tagged genes might be potential points of intervention 
+to moderate disability progression
+
+Ziemssen et al (2019) - Real-world persistence and benefit-risk profile of fingolimot over 36 months in 
+Germany
+- At baseline, 94.7% of patients in the effectiveness analysis had received a previous disease-modifying 
+therapy
+- After 36 months, 70.4% of patients were still receiving fingolimod. OVer this period, annualized relapse 
+rates decreased to 0.265 from 1.79
+- In total, 16% of patients had 6-month confirmed disability improvement, 12.5% had 6-month disability 
+worsening, and 52.5% were free from relapses and 6-month confirmed disablity worsening
+
