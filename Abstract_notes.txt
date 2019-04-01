@@ -128,3 +128,196 @@ perceived fatigue and quality of life of persons with progressive MS
 - High responders undertook longer duration of maassage and stretches per puscle in 12 months
 - Multimodal intervention may reduce fatigue and improve quality of life of subjects with progressive MS
 
+Black et al (2019) - Higher non-processed red meat consumption is associated with reduced risk of central nervous 
+sytem demyelineation
+- Using a food frequency questionnaire data set from the 2003-2006 Ausimmune study, an indiced,t matched, 
+case-controlled study examining environmental risk factors for nervous system demyelination
+- Non-processed and processed meat density was calculated and correlation analysis was done with adjustment 
+according to history of infectious mononucleosis, serum 25-hydroxyvitamin D concentrations, smoking, race, 
+education, body mass index, and dietary misreporting
+- A one standard deviation increase in non-processed red meat density was associated with a 19% reduced risk of 
+central nervous system demyelination
+- There was no statistically significant association between non-processed red meat density and risk of central 
+nervous system demyelination in males, while there was an associated 26% reduced risk in females
+
+Bromley et al (2019) - Impact of nutritional intake on function in people with mild-to-moderate multiple 
+sclerosis
+- Cross-sectional pilot study included 20 ambulatory adult volunteers with MS
+- Significant correlations were seen between the percentage of diet comprising fats and the 6-minute walk test 
+and the physical functionig component of the 36-item short form heealth survey
+- the percentage of carbohydrates was significantly correlated with the 6 minute walk test, daily activity, and 
+the physical functioning component of the 36 item short form health survey.
+- Cholesterol, folate, iron, and magnesium were significantly positively correlated with the physical functioning 
+component of the 36-item short form health survey, and the 6 minute walk test
+- These findings indicate better ambulation, daily function, and QOL with increased fat intae, decreased 
+carbohydrate intake, and increased intake of the micronutrients cholesterol, folate, iron, and magnesium in 
+people with mild-to-moderate MS
+
+Chenard et al (2019) - Nutrient composition comparison between a modified paleolithic diet for multiple sclerosis 
+and the recommended healthy US-style eating pattern
+- Roy Swank proposed a low saturated fat diet to treat MS around 1950 and showed delayed disease progression in 
+his patients. There is insufficient evidnce to recomment this diet for MS and default dietary recommentations are 
+the Dietary Guidelines for Americans (DGA)Swank recommended dietary supplements corrected menu shortfalls in 
+vitamin D, E, calcium, folate, and iron but not dietary fiber, potassium and choline
+- Nutritional adequancy of the Swank modeled diet was similar to healthy US-style eating pattern for 17 vitamins 
+and minerals with similar shortfall nutrients except magnesium and dietary fibre
+- Swank menus have similar nutritional adequacy as healthy US-style eating pattern.
+- Inclusion of foods high in dietary fiber, potassium and choline may be advised as well as selection of foods to 
+reduce sodium below the tolerable upper intake level
+
+Coe et al (2018) - A randomised double-blind placebo-controlled feasibility trial of flavonoid-rich cocoa for 
+fatigue in people with relapsing and remitting multiple sclerosis
+- During a 60week intervention, participants consumed a high or low flavonoid cocoa beverage daily. Fatigue and 
+fatigabilty were measured at three visits (1,3,& 6 week)
+- 40 people with MS were randomized to high or low flavonoid groups
+- There was a small effect on fatigue and a moderate efect of fatigability
+- There were seven adverse events (?), only one of which was possibly related and it was resolved
+
+Ganesh & Stahnisch (2013) - On the historical succession of vessel-based therapies in the treatment of multiple 
+sclerosis
+- CCSVI model of MS, and th eassociated surgical 'venoplasty'interventions have often been advertised as a novel 
+idea
+- In the 1930s, Tracy Jackson Putnam attempted pharmocological anticoagulation
+- In the 1940s, Richard M. Brickner's studyies of vasodilatory drugs, which futher inspired trials of 
+sympathectomy and ganglionectomy
+- In the 1950s, Ilya Mark Scheinker studied vasopressor therapy, while Roy Laver Swank intestigated the effects 
+of a low saturated fat diet in his patients
+
+Irish et al (2017) - Randomized control trial evaluation of a modified Paleolithic dietary intervention in the 
+treatment of relapsing-remitting multiple sclerosis: a pilot study
+- The purpose of this pilot study was to evaluate a modified Paleolithic dietary intervention in the treatment of 
+fatigue and other symptoms in relapsing-remitting MS
+- A Paleolithic diet may be useful in the treatment and management of MS, by reducing perceived fatigue, 
+increasing mental and physical quality of life, increasing exercise capacity, and improving hand and leg 
+function.
+- By increasing vitamin K serum levels, the modified Paleolithic diet may also reduce inflammation
+
+Jakamovski et al (2019) - Dietary and lifestyle factors in multple sclerosis progression: results from a 5-year 
+longitudinal MRI study
+- To assess the effect of lifestyle-based risk factors linked to cardiovascular disease (CVD) on clinical and 
+MRI-derived outcomes
+- Lifestyle risk factors contribute to accelerated centrail brain atrophy in MS patients, whereas unhealthier 
+diet is associated with MS lesion accrual.
+- Despite the lower overall effect when compared to sex-matched healthy controls, lifestyle-based modifications 
+may still provide a beneficial effect on reducing brain atrophy in MS patients
+
+Lee et al (2017) - A multimodal, nonpharmacologic intervention improves mood and cognitive function ni people 
+with multiple sclerosis
+- The objective of this study was to examine whether participation in a 12-month multimodal intervention would 
+improve mood and cognitive function in adults with progressive multiple sclerosis
+- In this one-arm open-label feasibility trial, participants were prescribed a home-based multimodal 
+intervention, including a modified Paleolithic diet; an exercise program (stretching and strengthening of the 
+trunk and lower limb muscles); neuromuascular electical stimualtion of trunk and lower limb muscles, and stress 
+management (meditation and self-massage)
+- The more individuals participated in the intervention activities, the greater improvements they had from 
+baseline to 12 months on self-report measures of anxiety
+- Mood and cognitive improvements were more closely related to a higher intake of modified Paleolithic 
+diet tahn to exercise and stress management dosage.
+- Anxiety and depression changes were evident after just a few months, whereas changes in cognitive 
+function were generally not observed until later in the intervention perid
+- Mood and cognitive function changes from baseline to 12 months were significantly associated with fatigue 
+improvements
+- A modified, Paleolithic diet, exercise, EStim, and stess management intervention like this one has the 
+potential to improve th emood and cognitive symptoms that can lead to considerable suffering in people with 
+Ms, potentially improving the quality of life and function for people with progressive MS
+
+Masullo et al (2014) - Complementary and alternative medicine use and nutrient intake among individuals 
+with Multiple Sclerosis in the United States
+- The aim of this pilot study was to determine the prevalence of specific types of complementary and 
+alternative medicienes used by adults with MS in the United States
+- This study found that a majority of the sample population used complementary and alternative medicines 
+within the previous 12 months, the most prevalent type being vitamins/minerals, nonvitamin, nonmineralm 
+natural products, relaxation techniques, and special diets
+- Subjects following the Paleo diet did not meet the estimated average requirement for vitamins D and E, 
+while those on the Swank diet were below the estimated average requirement for vitamins C, A, E and folate
+Inadequate intakes of certain vitamins and minerals by those following the Swank and Paleo diet suggest 
+these diets may be too restrictive, thus futher research is warranted
+
+Mische & Mowry (2018) - The evidence for dietary intervntions and nutritional supplements as treatment 
+options in multiple sclerosis: a review
+- This review aims to critically evaluate published studies examining diets and nutritional supplements for 
+the impact on prevention and prognosis of multiple sclerosis
+- There is a negative relationship between the Mediterranean diet and vascular disease, and vascular 
+co-morbidities are associated with a worse MS prognosis
+- Low-fat, fish-based diets and sodium-resticted ddets, calorie restriction, the paleo diet, and 
+gluten-free diets have been examined, mostly in observational studies; results are inconvlusive
+- Pilot data shows a posssible benefit of biotin with respect to disability worsening in people and 
+progressive MS
+- Many other nutritional supplements have been tested, including several anti-oxidants. While some early 
+studies show positive resluts, no results has been definitive
+- Higher quality clinical trials are needed to ascertain the possible benefits of nutritional supplements
+
+Pommerich et al (2018) - Is there an effect of dietary intake on MS-related fatigue? - A systematic 
+literature review
+- Fatigue is considered the most common symptom of persons with multiple sclerosis, occurring in up to 90% 
+of the patients at some point with two-thirds of persons with MS experience fatigue as their most 
+disturbing symptom
+- Pharmacological treatment options for MS-related fatigue show only limited and contradicting results
+- A considerable interest in dietary interventions as a means of MS symptom managment has advanced in the 
+MS community
+- Few empirical sutdies focussing on the effect of holistic dietary intakeon fatigue has not been 
+systemically examined
+- Dietary intake holds the potential to lower MS-related fatigue, but sdolid conclusions are not possible 
+based on the existing evidence
+- Sparce evidence points toward an effect of adequate magniesiuma and folate intake and a trent for 
+decreased fatigue
+
+Sand (2018) - The role of diet in multiple sclerosis: mechanistic connections and current evidence
+- Current evidence for the effects of fatty acid, fruits, and vegetables, whole grains, dairy, and salt are 
+reviewed
+- Dietary patterns including overall diety quality, caloric restriction, McDougall diet, Paleolithic diet, 
+and Mediterranean diet are discussed
+- Several individual dietary components and patterns demonstrate potential for significant impact in MS. 
+Definitive answers regarding the ability of diet to act as a disease modifier in MS will ultimately require 
+large-scale clinical trials
+
+Swank (1991) - Multiple sclerosis: fat-oil relationship
+- Between 1949 and 1984, 150 patients with multiple sclerosis consumed low-fat diets
+- Fat, oil, and protein intakes; disability; and deaths were determined
+- A daily intake of fat lower than 20.1 g/day (avg 17 g/day), 31% died, and average deterioration was 
+slight
+- A daily intake greater than 20 g/day (avg 25 or 41 g/day) was attended by serious disability and the 
+deaths of 79 and 81% respectively
+- Oil intake bore an indirect relationship to fat consumption
+- Minimally disabled patients who followed diet recommendations deteriorated little if at all, and only 
+5% failed to survive the 34 year of the study, whereas 80% who failed to follow diet recommendations did 
+not survive the study period
+- High sensitivity to fats suggests that saturated animal fats are directly involved in the genesis of 
+multiple sclerosis
+
+Swank & Dugan (1990) - Effect of low saturated fat diet in early and late cases of multiple sclerosis
+- For patients with minimun, moderate, and severe neurological disability, those who adhered to the 
+prescribed diet (=< 20g fat/day) showed significantly less deteriorationa nd much lower death rates than 
+did those who consumed more fat than prescribed (>20 g fat/day)
+- This study, as above, occurred over 34 years
+- The greatest benefit was seen in those with minimum disability at the start of the trial; in this group, 
+when those who diet from non-MS diseases were excluded from the analyis, 95% survived and remained 
+physically active
+
+Swank & Grimsgaard (1988) - Multiple sclerosis: the lipid relationship
+- Betweeen 1949 and 1984, 150 multiple sclerosis patients consumed low-fat diets
+- On daily fat consumption of less than 20.1 g (average 17 g), 31% died and deterioration was slight
+- Dialy intakes of greater than 20 g (average of either 25 or 41g) were attended by serious disability and 
+deaths of 79% and 81% respectively
+
+Swank et al (1983) - Cerebral blood flow and red cell delivery in normal subjects and in multiple 
+sclerosis
+- Regional cerebral blood flow was determined in 77 normal females and 53 normal males 
+of different ages and in 26 men and 45 women with multiple scleoris by the inhalation of radioactive Xe133 
+method.
+- In the normal subjects, the CBF was relatively high in the ttens and fell, at first rapidly and 
+then slowly in both sexes with age. During adult life, the flow in females was significantly higher than in 
+males.
+- The delivery in packed red cells was nearly the same for both sexes
+- In patients with MS, there occurred a progressive generalized decrease in CBF and in packed red cell 
+delivery with age which was significantly greater than observed in normal subjects
+- The rate of decrease in CBF and red cell delivery correlated directly with the rate and progress of the 
+disease
+
+Vasconcelos et al (2019) - Nrf2/ARE pathway modulatio by dietary energy regulation in neurological 
+disorders
+- Nuclear factor erythroid 2-related facotr 2 (Nrf2) regulates the expression of an array of enzymes with 
+important detoxifying and antioxidant functions
+- Current findings support the role of high levels of oxidative stress in the pathogenesis of neurological 
+disorders
+- 
