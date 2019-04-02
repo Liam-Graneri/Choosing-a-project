@@ -1,0 +1,337 @@
+*Sclerosis and Remyelination*
+
+
+Abassi-Kangevari et al (2019) - Potential therapeutic features of human amniotic mesenchymal stem 
+cells in multiple sclerosis: immunomodulation, inflammation, suppression, angiogenesis, promotion, 
+oxidative stress inhibition, neurogenesis induction, MMPs regulation, and remyelination 
+stimulation
+- MS is accompanied by demyelination of the nerves during immunological processes in the presence 
+of oxidative stress, hypoxia, cerebral hypo-perfusion, and dysregulation in matrix 
+metalloproteinases (MMPs)
+- Human amniotic mesenchumal stem cells as pluripotent stem cells possess some conspicuous 
+features which could be of therapeutic value in MS therapy
+- hAMSCs coupld mimic the cascade of signals and secrete factors needed for promoting formation of 
+stable neovascularture and angiogenesis
+- hAMSCs also have immunomodulatory and immunosuppressive effects on inflammatory processes and 
+reduce the actiity of inflammatory cells, migration of microglia and inhibit recruitment of 
+certain immune cells to injury sites
+- hAMSCs attenuate the oxidative stress supported by the increased level of antioxidant enzymes 
+and the decreased level of lipid peroxidation products
+- hAMSCs attenuate the oxidative stress supported by the increased level of antioxidant enzymes 
+and the decreased level of lipd peroxidation products
+- hAMSCs enhance neuroprotectino and neurogenesis in brain injuries by inhibition of inflammation 
+and promotion of neurogenesis
+- hAMSCs could significantly increase the expression of neurotrophic factors, which prevents 
+neurons from initiating programmed cell death and improves survival, development, and function of 
+neurons
+
+Agresti et al - Oxidative status in multiple sclerosis and off-targets of antioxidants: the case 
+of Edaravone
+- Overproduction of reactive oxygen species by macrophages/microglia can bring about cellular 
+injury and ensuring cell death by oxidizing cardinal cellular components. Oxidized molecules are 
+present in active MS lesions and are associated with neurodegeneration
+- The result of the three recent studies were put in the context and discussed taking into accound 
+the literature on the topic
+- OXidative damage underpinned an imbalance shard by MS and neurodegenerative diseases such as 
+Alzheimer's and Parkinson's diseases
+- Overall, edaravone emerges as a candidate to treat complex diseases such as MS, where 
+inflammation, oxidative sterss and neurodegeneration contribute to disease progressoin, together 
+or individually, in different phases and disease types
+
+Bruck et al (2003) - Remyelination in multiple sclerosis
+- Remyelination depends on the presence of myelinating oligodendrocytes and a functional 
+interaction between these myelinating cells and axons
+- The imaging signal of remyelination in MRI or spectroscopy is not yet defined
+- This review focuses on he morphological appearance of remyelinating MS lesions, their 
+correlation with oligodendrocyte pathology, and possible markers for remyelination in imaging
+
+Cui et al (2019) - Donepezil, a drug for Alzheimer's disease, promotes oligodendrocyte generation 
+and remyelination
+- Small molecule drugs that promote OPC to OL differentiation and remyelination may provide a new 
+way to treat these demyelinating diseases
+- Donepezil, an aetylcholinesterase inhibitor (AChEI) developed for the treatment of Alzheimer's 
+disease, significantly promotes oligodendrocyte precursor cells to oligodendrocyte differentiation
+- Donepezil also facilitates the formation of myelin sheaths in OPC-DRG neuron co-culture
+- Interestingly, Donepezil also promotes the repair of the myelin sheaths in vivo and provides 
+significant therapeutic effect in a cuprizone-mediated myelination animal model
+
+Faria Jr et al (2019) - TMEM10 promotes oligodendrocyte differentiation and is expressed by 
+oligodendrocytes in human remyelinating multiple sclerosis plaques
+- A mammalian-specifc CNS myelin gene, tmem10, also called Opalin, encodes a type 1 transmembrane 
+protein tha tis highly upregulated during early stages of OPC differentiation;m however a function 
+for TMEM10 has not yet been identified
+- This study detects TMEM10 protein in mouse brain imagine at ~P10 and show that protein levels 
+continue to increase as oligodendrocytes differentiate and myelinate axons in vivo
+- Constitutive TMEM10 overexpression in the Oli-neu oligodendroglial cell line promotes the 
+expression of the myelin-associated genes MAG, CNP, and CGT whereas TMEM10 knock down in primary 
+oligodndrocyte precursor cells reduces CNP mRNA expression and decreases the percentage of 
+MBP-positive oligodendrocytes that differentiation in vitro
+- Ectopic TMEM10 expression evokes an increase in process extension and branching, and blocking 
+endogenous TMEM10 expression results in oligodendrocytes with abnormal cell morphology
+- This study finds that TMEM10 promotes oligodendrocyte terminal differentiation and may represent 
+a novel target to promote remyelination in demyelinating disorders
+
+Franklin & Constant (2008) - Remyelination in the CNS: from biology to therapy
+- Remyelination is mediated by a population of precursor cells called oligodendrocyte precursor 
+cells, which are widely disdtributed thoughout the adult CNS
+- Despite its efficiency in experimental models and in some clinical diseases, remyelination is 
+often inadequate in demyelinating diseseas such as MS, the most common demyelinating disease and a 
+cause of neurological disability in young adults
+- The failure of remyelination has profound consequences for the health of axons, the progressive 
+and irreversible loss of which accounts for the progressive nature of these diseases
+
+Gasperoni et al (2019) - A novel comprehensive paradigm for the etiopathogenesis of multiple 
+sclerosis: therapeutic approaches and future perspectives on its treatment
+- Currently, the most accredited hypothesis is that the closer to the equator the more pronounced 
+is the amount of sunlight which, in turn, increases the production of vitamin D
+- Cholecalciferol is indeed deficient in MS patients, but this factor does not explain by itself 
+the etiopathogenesis of the disease
+- The arisen hypothesis was that, increaseing the latitude, the factor that varies and can have 
+the stronger effect on the human organism, is the continuous and ever-increasing diversity of the 
+natural light-dark cycle
+- The consequent effot of the suprachiasmatic nucleus to entrain the organism's circadian rhythm 
+affects the hypothalamic-pituitary-adrenal axis rsulting in desynchronizing the central and 
+peripheral circadian clocks and pathologizing the immunitary system
+- The results underscored that people living in countries subjected to a futher circadian 
+disruptive factor, as daylight saving time, have a 6.35 times higher prevalence of MS than States 
+placed on their same latitude that do not observe it, thus strongly supporting the hypothesis
+
+Gharenghani et al (2019) - Melatonin therapy modulates cerebral metabolism and enhances 
+remyelination by increasing PDK4 in a mouse model of multiple sclerosis
+- Melatonin, a naturally occuring hormone, has emerged as a potent neuroprotective candidate to 
+reduce meylin loss and imporve MS outcomes
+- Results of this study find melatonin decreases neurologial disability scores and enhanced 
+remyelination, significantly increasing myelin protein levels including MBP, MOG, and MOBP
+- In addition, melatonin attenuated inflammation by reducing pro-inflammatory cytokines and 
+increasing anti-inflammatory cytokines
+- Melatonin significantly increased brain concentrations of lactate, N-aetylaspartate, and 
+3-hydroxy-3-methylglutaryl-coenzyme-A reductase
+- Pyruvate dehydrogenase kinase-4 mRNA and protein expression levels were also increased in 
+melatonin-treateed, compared to untreated EAE mice
+- Although pyruvate dehydrogease complex activity was reduced by melatonin, it caused a reduction 
+in inflamatory mediators while stimulating oligodendrogenesis, suggesting that oligodendrocytes 
+are forced to use an alternative pathway to synthesize fatty acids for remyelination
+
+Hoojimans et al (2019) - Remyelination promoting therapies in multiple sclerosis animal models: a 
+systematic review and meta-analysis
+- Many 'myelin repair' therapies have been pre-clinically tested using different models of toxic 
+demyelination such as cuprizone, ethidium bromide, or lysolecithin and some of the therapies 
+already entered clinical trials. However, keeping track on all these possible new therapies and 
+their efficiacy has become difficult with the increasing number of studies
+- This meta-analysis also identifies 16 promising therapies which did not enter a clinical dtial 
+for MS so far, among them Pigment epithelium-derived factor, plateled derived growth facor, and 
+tocopherol derivate TFA-12
+
+Jia et al (2019) - Neuronal activity-dependent myelin repair after stroke
+- Brain tissue undergoes substantial activity-dependent reorganisation after stroke due to 
+neuronal plasticity, leading to partial functional recovery in patients
+- Concurrent myelin repair is crucial for proper neuronal network function and reorganisation
+- Myelin repair after stroke might occur as myelin plasticity or as remyelination through the 
+recruitment and differentiation of oligodendrocyte precursor cells, which become myelin-forming 
+olidogdendrocytes
+- With ageing, the ability of OPCs to differentiate into myelinating oligodendrocytes decreases 
+due to changes in their ion channel and neurotransmitter receptor expression profile, rendering 
+them less sensitive to neuronal activity
+
+Lassmann et al (1997) - Remyellination in multiple sclerosis
+- Spontaneous remyelination is promounced in some MS patients
+- The extent of remyelination correlates well with the presence of oligodendrocytes in the lesions
+- The source and origin of the remyelinating cells is still unclear; they may be derived from 
+either undifferentiated progenitor cells, or inpart from mature oligodendrocutes that have escaped 
+destruction during lesional activity
+- Complete remyelination of plaques is possible, leading tot he formation of 'shadow plaques
+
+Ludwin (1978) - Central nervous system demyelination and remyelination in the mouse: an 
+ultrastrutural stuy of cuprizone toxicity
+- 6 week cuprizone model consistently showed almost complete demyelination of the superior 
+cerebellar peduncle
+- After formation of myelinic vacuoles and removal of myelin by macrophages and astrocytes, the 
+zons became invested with astroglial processes
+- As part of the glial response to demyelination, numerous reactive or immature cells apepared, 
+some of which were identified as being either astrocytic or oligodendrocytic in nature
+Some mature oligodendrocytes survived
+- When allowed to recover on a normal diet, remyelination began within a week, and progressed 
+until all axons were myelinated
+- The mechanism of remyelination was similar to the spiral wrapping mechanism seen in normal 
+development
+- The myelinating cell in all cases was the mature oligodendrocyte
+- Sources for these oligodendrocytes include residual surviving oligodendrocytes, differentiation 
+of immature forms, andpossibly the perineuronal satellite cell
+- The sheath eventually reached a thickness approximatly half that of normal development, with a 
+disturbed relationship between myelin thickness and axon diameter
+- It is concluded that the cuprizone model is an excellent situation in which to study the 
+cellular mechanisms of demyelination and remyelination
+
+Mannioui & Zalc (2019) - Conditional demyelination and remyelination in a transgenic Xenopus 
+laevis
+- The development of immunotherapies, by reducing the relapse rate, has profoundly impacted short 
+term prognosis and patients' quality of life
+- These anti-inflammatory medications, however, have not proven to be sufficient to prevent 
+long-term disability progression, resulting from axonal transection and neuronal damage, 
+consequences of prolonged demyelination
+- Promoting remyelination is therefore a key therapeutic strategy to limit handicap progression, 
+and represent the major therapeutic challenge in MS
+
+Matsushima & Morell (2001) - The neurotoxicant, cuprizone, as a model to study demyelination and 
+remyelination in teh central nervous system
+- An experimental model in which massive demyelination can be reproducibly incduced in large areas 
+of mouse brain is exposure to the copper chelator, curpizone, in the diet
+- When 8 week old C57 mice are fed 0.2% curpizone in the diet, mature oligodendroglia are 
+specifically insulated (cannot fulfill the metabolic demand of support of vast amounts of myelin) 
+and go through apoptosis
+- This is closely followed by recruitment of microglia and phasgocytosis of myelin
+- If the cuprizone challenge is terminated, an almost complete remyelination takes place in a 
+matter of weeks
+
+Munoz-Esquivel et al (2019) - Sildenafil inhibits myelin expression and myelination of 
+oligodendroglial 
+precursor cells
+- Phosphodiesterases have previously been implicated in oligodendrocyte maturation and myelination 
+of CNS axons
+- Sildenafil citrate is a phosphodiesterase inhibitor known to blod PDE5, which also reduces 
+inflammation in teh experimental autoimmune encephalomyelintis demyelinating model
+- This study found that sildenafil significantly diminished myelin gene expression and protein 
+expression
+- Moreover, sildeniafil also increased the expression of Id2 and Id4 negative transcriptional 
+regulators, and the degree of oligodendoglial precursor cells with cytoplasmic p57kip2 protein 
+localization was reduced, providing evvidence that PDE blocker impaired the differentiation 
+capacity.
+
+Nicaise et al (2019) - Cellular senescence in progenitor cells contributes to diminished 
+remyelination potential in progressive multiple sclerosis
+- Cellular senescence is a form of adaptive cellular physiology associated with aging
+- The authors had previously determined that neuroal progenitor cells derived from induced 
+pluripotent stem cell lines from patients with primary progressive multiple sclerosis failed to 
+promote oligodentricyte progenitor cell maturation, whereas NPCs from age-matched control cell 
+lines did so efficiently
+- Expression of cellular senescence genes in PMS NPCs was found to be reversible by treatment with 
+rapamycin, which then enhanced PPMS NPC support for oligodenctocyte differentiation
+- Cellular senescence contributes to altered progenitor cell functions in demyelinated lesions as 
+a process that contributes to remyelination failure in PMS, whic may impact how this disease is 
+modeled and inform development of future myelin regenreation studies
+
+Ortiz et al (2019) - Neuronal activity in vivo enhances functional myelin repair
+- While neuronal activity stimulates oligodendrocyte production and myelination in normal 
+conditions, it remains unclear whether the activity of demyelinated axons restores their 
+loss-of-functino in a harmful environment
+- This study established amodel to induce a moderate optogenetic stimualtion of demyelinated axons 
+in the corpus callosum at the level of the motor cortex in which cortical circuit activation and 
+locomotor effects were reduced in adult freely moving mice
+- They demonstrated moderate activation of demyelinated axons enhances the differentiation of 
+oligodendrocyte precursor cells onto mature oligodendrocyte, but only under a repeated stimulation 
+paradigm
+- This activity-dependent incrase in oligodendrocyte pool promotes an extensive remyelination and 
+functional restoration of conduction, as revealed by ultrastructural analsys and compount action 
+potential recordings
+
+Pineas et al (1993) - Multiple sclerosis: remyelination of nascent lesions
+- The raltionship between patque pathology and disease duration was examined in 15 patients with 
+MS who died early in the course of their illness
+- Myelin stained sections revealed that most plaques examined in patients who died during the 
+first month of their illness showed evidence of ongoing myelin destruction accompaied by a loss of 
+oligodendrocytes
+- Plaques containing large numbers of oligodendrocytes were not observed in these patients, but 
+were relatively common in patients who died more than 1 month after clinical onset
+- This study provides new evidence that both oligodendrocytes and myelin are destroyed in new 
+lesions, this activity ceases completely in many lesions within a few weeks, and that 
+remyelination frequently ensues following repopulation of the plaque by oligodendrocytes
+- The findings suggest that new lesions normally remyelinate unless interrupeted by recurrent 
+activity and that remyelinated shadow plaques are the outcome of a single previous episode of 
+focal demyelination
+
+Popescu et al (2018) - Vitamin K enhances the prouction of brain sulfatides during remyelination
+- The most abundant myelin lipids are galactosylceramides in their sulfated form, sulfatides, 
+which together account for about 27% of the total dry weight of myelin
+- This study investigated the role of vitamin K in remyelination, by using an animal model for MS, 
+the cuprizone model
+- Demyelination was induced in C57 mice by feeding them a diet containing 0.3% cuprizone for 6 
+weeks
+- After 6 weeks, the mice were allowed to remyelinate without cuprizone for either 1 or 3 weeks, 
+in the absence or presence of vitamin K
+- Vitamin K enhaned the production of total brain sulfatides, after both 1 and 3 weeks of 
+remyelination, when compared to the control group
+- Vitamin K incresed the production of individual brian sulfatides after 3 weeks of remyelination, 
+when compared to the control group
+- Im addition, vitamin D enhanced the production of total brain sulfatides after 3 weeks of 
+remyelination, but not syndergistic effect between vitmains K and D for the production of total 
+brain sulfatides was observed
+
+Rodrigues & Lennon (1990) - Immunoglobulins promote remyelination the CNS
+- Remyelination was promoted by systemic injection of serum IgG from donor mice hyperimmunized 
+with homogenized spinal cord
+- In SJL/J mice infected with Theiler's virus, primary demyelination and inflammation in the 
+spinal cord were extensive.
+- Following treatment with IgG to spinal cord homogenate, new myelin sythesis as measured by 
+quantitative morphometry increased sixfold
+- Cells in areas of remyelination that incorporated [3H] thymidine did not express differentiation 
+markers of macrophages, oligodendrocytes, or astrocytes but were idendtified by elctron 
+microscopic autoradiography as progenitor glial cells
+- These findings raise the posibiltiy that IgG secreted in demyalination lesions might have the 
+potential to promote myelin repair
+
+Schultz et al (2016) - Acutely damaged axons are remyelinated in multiple sclerosis and 
+experimental models of demyelination
+- This study employed cuprizone- and focal lysolecithin- induced demyelination and performed time 
+course experiments assessing teh evolution of early and late stage remyelination and axonal damage
+- This observed damaged axons with signs of remyelination after cuprizone diet cessation and 
+lysolecithin injection
+- To assess the correlation of remyelination and axonal damage in multiple sclerosis lesions, we 
+took advantage of a cohort of patients with early and late stage remyelinated lesions and assessed 
+the number of AOO and SMI32- positive damaged axons and the density of SMI31- positive and silver 
+impregnated preserved axons
+- Early de- and remyelinating lesions did not differe with respect to axonal density and axonal 
+damage, but it was observed that lower axonal density in later stage demyelinated MS lesions than 
+in remyelinated MS lesions
+- This suggests that remyelination may not only be protective over a long period of time, but may 
+play an important role in teh immediate axonal recuperation after a demyelinating insult
+
+Stumpf et al (2019) - Ketogenic diet ameliorates axonal defects and promotes myelination in 
+Pelizaeus-Merzbacher disease
+- In a model of MID with perturbed blood-brain barrier integrity, cholesterol supplementation 
+promotes myelin membrain growth
+
+Tanabe & Yamashita (2019) - Function of lymphocytes in 0ligodendrocyte development
+- During brain development, oligodendrocyte precursor cells are generated in the medial ganglionic 
+eminence, lateral ganglionic eminence, and dorsal pallium
+- Oligodndrocyte precursor cells proliferate and migrate throughout the CNS at the embryonic stage
+- After birth, OPCs differentiate into mature oligodendrocytes, which insulate axons
+- Oligodendrocyte development is regulated by the extrisic environment including neurons, 
+astrocytes, and immune cells
+- During brain development, B lymphocytes are present in teh meningeal space, and are involved in 
+oligodendrocyte develoipment during the remyelination process
+- A subset of microglia contributes to oligodendrocyte development during the neonatal periods
+
+Wang et al (2019) - Therapeutic effect of oligomeric proanthocyanidin in cuprizone-induced 
+demyelination
+- This study investigates the therapeutic effect of oligomeric proanthocyanidin (OPC), the most 
+effective component of grape seed extract, in cuprizone-fed C57 mice
+- OPC attenuated abnormal behaviour, reduced demyelination, and increased expression of myelin 
+basic protein and expressoin of O4+ oligodendrocytes in teh corpus callosum
+- OPC also reduced the bumber of B and T cells, activated microglia in the corpus callosum, and 
+inhibited secretion of inflammatory factors
+- All together, these results demonstrate a potent therapeutic effect for OPC in CPZ-mediated 
+demyelinationa nd clearly highlight mutliple effects of this natural product in attenuating 
+myelin-specific autoantibodies and the inflammatory microenvirnment in the brain
+
+Yong et al (2019) - The benefits of neuroinflammation for the repair of the injured CNS
+- In neuroinflammatory conditions such as MS, there is prominent infiltration and a long-lasting 
+representation fo various leukocyte subsets in the CNS parenchyma
+- The consequences of excessive and uncontrolled neuroinflammation are injury and death to neural 
+elements, which manifest as a heterogenous set of neurological symptoms
+- The recognized benefits of inflammation to the CNS include the preservation of CNS constituents, 
+the proliferation and maturation of various neural precursor populations, axonal regenration, and 
+the reformation of myelin on denuded axons.
+- This study highlights the benefit of neuroinflammation in fostering CNS recovery after neural 
+injury using examples from MS etc. This study focuses on CNS regenerative responses, such as 
+neurogenesis, axonal regeneration, and remyelination, and disdcusses the mechanisms by which 
+neuroinflammation is pro-regenerative for the CNS
+
+Zhang et al (2019) - Evolution of clinical trials in multiple sclerosis
+- While placebo-controlled trials for some questions may still be relevant, DMT trials in 
+relapsing-remitting MS are not longer ethical
+- The replacement of the placebo arm by an active comparator arm in trials have raised the cost of 
+trials by requiring a larger sample size to detect on-study changes in treatment effects
+- In trials for progressive forms of MS (PMS), the lack of sensitive outcome measures that can be 
+sued in shorter-term trials have delayed the development of effective treatments
+
+
